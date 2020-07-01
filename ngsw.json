@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1593600274609,
+  "timestamp": 1593607352009,
   "index": "/konverty/index.html",
   "assetGroups": [
     {
@@ -29,32 +29,32 @@
         "ignoreVary": true
       },
       "urls": [
-        "/konverty/assets/icons/icon-128x128.png",
-        "/konverty/assets/icons/icon-144x144.png",
-        "/konverty/assets/icons/icon-152x152.png",
-        "/konverty/assets/icons/icon-192x192.png",
-        "/konverty/assets/icons/icon-384x384.png",
-        "/konverty/assets/icons/icon-512x512.png",
-        "/konverty/assets/icons/icon-72x72.png",
-        "/konverty/assets/icons/icon-96x96.png"
+        "/konverty/assets/icons/apple-icon-120.png",
+        "/konverty/assets/icons/apple-icon-152.png",
+        "/konverty/assets/icons/apple-icon-167.png",
+        "/konverty/assets/icons/apple-icon-180.png",
+        "/konverty/assets/icons/favicon-196.png",
+        "/konverty/assets/icons/icon.svg",
+        "/konverty/assets/icons/manifest-icon-192.png",
+        "/konverty/assets/icons/manifest-icon-512.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/konverty/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/konverty/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/konverty/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/konverty/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/konverty/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/konverty/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/konverty/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/konverty/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/konverty/assets/icons/apple-icon-120.png": "16fb746b6210a910d60554dea25a74c3571fff48",
+    "/konverty/assets/icons/apple-icon-152.png": "a783a1e1bf5738183c6113726341f6fe8f50102d",
+    "/konverty/assets/icons/apple-icon-167.png": "0adc73d400f3bd9ed789bac8f25bec132cd0e77e",
+    "/konverty/assets/icons/apple-icon-180.png": "bcbe335296b16ee3f39e73680cdb5c87edb91791",
+    "/konverty/assets/icons/favicon-196.png": "faad712df7d3a7fb26a74f90ed5e50479199a15e",
+    "/konverty/assets/icons/icon.svg": "1c9443081103d60339fc71009f4ce776be7f1a20",
+    "/konverty/assets/icons/manifest-icon-192.png": "b7027e5d7c9673af6d2a6cdb03bd673d7e5cdf16",
+    "/konverty/assets/icons/manifest-icon-512.png": "4a9700a6abdfcc6f8f75ba43a4372dea2fa82454",
     "/konverty/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/konverty/index.html": "183b02a2f8e6a9e82427fd867124ccca83fa5a4b",
+    "/konverty/index.html": "8599f997ab1701aa0ea73039e810357c619c40fc",
     "/konverty/main.b935e2fe9bff6e066f19.js": "501e1a9b5af4811f7bfe6cce7fd5956169a4f492",
-    "/konverty/manifest.webmanifest": "fd1b2ec6a2ea59f74ba82f74034afbfe0ab6356f",
+    "/konverty/manifest.webmanifest": "083295c91c0d9c664052960c2183dfb2770c9c85",
     "/konverty/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/konverty/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/konverty/styles.3997db369d61b6aadf16.css": "e337b9de94026ecf1ba526e6042044532af5bb92"
