@@ -1,0 +1,14 @@
+<mat-card>
+    <mat-card-title>
+       <span (click)="selectUnit.emit()">{{label}}</span>
+    </mat-card-title>
+    <mat-card-content>
+        
+        <input *ngIf="editable; else notEditable" matInput [value]="amount" (keyup)="amountChange.emit($event.target.value)" />
+        
+        <ng-template #notEditable>
+            <div class="computed-value">{{amount}}</div>
+        </ng-template>
+        
+    </mat-card-content>
+</mat-card>
